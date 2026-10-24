@@ -1,1 +1,0 @@
-# HCM-Lite-Challenge-Brief-Build-an-AI-assisted-HR-system-for-Admin-HR-and-Employees
